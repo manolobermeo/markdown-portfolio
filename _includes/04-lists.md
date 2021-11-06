@@ -1,4 +1,4 @@
-AirPods
-Phone
-Internet
-Money
+* AirPods
+* Phone
+* Internet
+* Money
